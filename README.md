@@ -3,6 +3,7 @@
 _"Segment your customers for better marketing"_ - A quote from the Internet
 
 
+
 ### Relevant Notes
 
 Imagine you run a T-shirt business. You sell T-shirts in different sizes (Small, Medium, Large, XL), colors (red, blue, black, white), and styles (round neck, V-neck, long sleeve, short sleeve). However, not all customers are interested in every option.
@@ -23,3 +24,14 @@ Some customers might prefer eco-friendly, organic cotton T-shirts, while others 
 
 You might notice that customers who have purchased black T-shirts in the past are more likely to buy black again. Or, customers who bought a sports-themed T-shirt might be interested in similar athletic wear.
 By using segmentation, you can target specific groups with T-shirt designs, marketing messages, and offers tailored to their preferences, making your business more efficient and your customers happier.
+
+
+### Business Scenario
+Suppose we are working as a data scientist for a FMCG company and want to segment our customers to help the marketing department for them to launch new products and sales based on the segmentation. Therefore we will save our time and money by marketing a specific group of customers with selected products.
+
+##### How Did we collect the data by the way?
+
+All data has been collected through the loyalty cards they use at checkout.
+
+We will utilize K-Means and PCA algorithms for this project and see how we define new grouped customers!
+
