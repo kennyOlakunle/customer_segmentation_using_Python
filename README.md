@@ -4,6 +4,8 @@ _"Segment your customers for better marketing"_ - A quote from the Internet
 
 
 
+
+
 ### Relevant Notes
 
 Imagine you run a T-shirt business. You sell T-shirts in different sizes (Small, Medium, Large, XL), colors (red, blue, black, white), and styles (round neck, V-neck, long sleeve, short sleeve). However, not all customers are interested in every option.
@@ -33,5 +35,5 @@ Suppose we are working as a data scientist for a FMCG company and want to segmen
 
 All data has been collected through the loyalty cards they use at checkout.
 
-We will utilize K-Means and PCA algorithms for this project and see how we define new grouped customers!
+We will utilize K-Means and PCA algorithms for this project and see how we define new grouped customers.
 
